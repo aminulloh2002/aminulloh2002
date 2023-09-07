@@ -4,14 +4,14 @@ Its me!, Aminulloh 👻
 
 I’m From Malang, Indonesia. and I'm a Fullstack Web Developer 😊
 
+Ask me about anything via social media, I am very happy to answer it 🤗
+
+<!--
 and I’m currently...
 
 - learning ReactJS and ExpressJS 🌱
 - open for job offers 👀
 
-Ask me about anything via social media, I am very happy to answer it 🤗
-
-<!--
 **aminulloh2002/aminulloh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
